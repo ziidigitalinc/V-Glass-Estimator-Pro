@@ -1,0 +1,7 @@
+{
+  "name": "Vaughan Glass and Mirror Inc.",
+  "description": "Professional flat glass estimation tool with fractional dimension support and AI-powered sketch recognition.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
